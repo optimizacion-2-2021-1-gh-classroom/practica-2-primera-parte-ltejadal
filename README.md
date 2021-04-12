@@ -11,7 +11,10 @@
 
 ## Descripción del Proyecto
 
-Por definir
+ En este proyecto se hace una reimplementación del proyecto realizado en la [Primera Práctica](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal) de la materia de Optimización Avanzada. En esta reimplementación se construye una imagen de docker con Kale instalado, y se realizan experimentos con esta herramienta, así como kubeflow y minikube para robustecer la programación relizada anteriormente.
+ 
+Para leer el reporte con los resultados de esta práctica dar clic [aquí]() <-- Por definir
+Para leer la documentación del algoritmo da clic [aquí]() <-- Por definir
 
 
 ## Referencias
