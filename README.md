@@ -5,9 +5,9 @@
 |Tarea | Integrantes | Usuario |
 |:---:|:---:|:---:|
 |Project Manager|Lau|[@ltejadal](https://github.com/ltejadal)|
-|Minikube, Kale y Kubeflow|Santi|@santibatte|
-|Reimplementación de código y pipelines con kale|Rafa|@rafaelortegar |
-|Reimplementación de código y pipelines con kale|Sebas|@C1587S|
+|Minikube, Kale y Kubeflow|Santi|[@santibatte](https://github.com/santibatte)|
+|Reimplementación de código y pipelines con kale|Rafa|[@rafaelortegar](https://github.com/rafaelortegar)|
+|Reimplementación de código y pipelines con kale|Sebas|[@C1587S](https://github.com/C1587S)|
 
 ## Descripción del Proyecto
 
