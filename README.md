@@ -1,4 +1,4 @@
-# Optimización Avanzada: Práctica 1, Primera Parte
+# Optimización Avanzada: Práctica 2, Primera Parte
 
 ## Integrantes y Roles
 
