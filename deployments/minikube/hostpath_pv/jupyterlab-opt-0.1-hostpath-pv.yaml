@@ -16,7 +16,7 @@ spec:
                         containers: 
                         - name: jupyterlab-opt-0-1-hostpath-pv
                           imagePullPolicy: Always
-                          image: santibatte/ant_colony_jupyter # quizas aca hay que agregarle :0.1
+                          image: santibatte/ant_colony_jupyter:0.1
 
                           ports:
                                   - containerPort: 8888
