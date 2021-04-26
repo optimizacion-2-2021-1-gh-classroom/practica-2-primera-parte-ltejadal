@@ -15,7 +15,7 @@
  
 Para leer el reporte con los resultados de esta práctica dar clic [aquí]() <-- Por definir
 
-Para leer la documentación del algoritmo da clic [aquí]() <-- Por definir
+Para leer la documentación del algoritmo da clic [aquí](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-ltejadal/build/html/index.html)
 
 
 ## Referencias
