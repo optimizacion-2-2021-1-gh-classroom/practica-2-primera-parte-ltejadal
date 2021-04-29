@@ -1,3 +1,4 @@
 datasets/*
 notebooks/perfilamiento.ipynb
 notebooks/Untitled.ipynb
+*.ipynb_checkpoints/
