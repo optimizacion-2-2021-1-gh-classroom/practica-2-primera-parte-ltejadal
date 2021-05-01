@@ -13,7 +13,7 @@
 
  En este proyecto se hace una reimplementación del proyecto realizado en la [Primera Práctica](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal) de la materia de Optimización Avanzada. En esta reimplementación se construye una imagen de docker con Kale instalado, y se realizan experimentos con esta herramienta, así como kubeflow y minikube para robustecer la programación relizada anteriormente.
  
-Para leer el reporte con los resultados de esta práctica dar clic [aquí]() <-- Por definir
+Para leer el reporte con los resultados de esta práctica dar clic [aquí](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-2-primera-parte-ltejadal/blob/main/reporte_equipo_4_parte_1_practica_2.ipynb)
 
 Para leer la documentación de la librería ACO-TSP da click [aquí](https://optimizacion-2-2021-1-gh-classroom.github.io/practica-1-segunda-parte-ltejadal/).
 
