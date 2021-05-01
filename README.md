@@ -22,3 +22,6 @@ Para leer la documentación de la librería ACO-TSP da click [aquí](https://op
 
 1. [Práctica 1, Primera parte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-primera-parte-ltejadal) (2021) Optimización 2
 2. [Práctica 1, Segunda parte](https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal) (2021) Optimización 2
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/optimizacion-2-2021-1-gh-classroom/practica-2-primera-parte-ltejadal/HEAD)
