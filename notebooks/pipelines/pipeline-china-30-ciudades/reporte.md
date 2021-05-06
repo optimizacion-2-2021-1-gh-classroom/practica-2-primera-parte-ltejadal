@@ -16,7 +16,7 @@ El _notebook_ utilizado tiene las siguientes configuraciones en `Kale`:
 
 **_Pipeline_**
 
-Este _pipeline_ tiene como objetivo utilizar 30 ciudades de China sacadas aleatoriamente del conjunto de datos de China de la base de datos _NAvtional Traveling Salesman Problems_ de la Universiudad de Waterloo, disponible [aquí](https://www.math.uwaterloo.ca/tsp/world/countries.html).
+Este _pipeline_ tiene como objetivo utilizar 30 ciudades de China sacadas aleatoriamente del conjunto de datos de China de la base de datos _National Traveling Salesman Problems_ de la Universiudad de Waterloo, disponible [aquí](https://www.math.uwaterloo.ca/tsp/world/countries.html).
 
 Se busca realizar la búsqueda de los mejores hiperparámetros asociados al algoritmo ACO-TSP implementado, encontrar la mejor solución, visualizarla y guardarla en disco en formato JSON. 
 
