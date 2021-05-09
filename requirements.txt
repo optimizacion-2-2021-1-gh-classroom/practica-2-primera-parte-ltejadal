@@ -1,1 +1,9 @@
 
+git+https://github.com/optimizacion-2-2021-1-gh-classroom/practica-1-segunda-parte-ltejadal.git#egg=ant_colony&subdirectory=src
+tsplib95==0.7.1
+matplotlib==3.3.4
+networkx==2.5
+scipy
+pandas
+pytest==6.2.2
+optuna==2.7.0
